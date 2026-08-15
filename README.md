@@ -3,7 +3,7 @@
 **앱 이름:** 링크 보관함
 **패키지 이름:** `com.codebrunch.url`
 **시행일:** 2026년 8월 15일
-**문의:** sjunkyle77@gmail.com
+**문의:** codebrunch27@gmail.com
 
 > 이 문서는 [https://codebrunch.github.io/urlnote/](https://codebrunch.github.io/urlnote/) 에서도 같은 내용으로 볼 수 있습니다.
 > (영문본은 아래 [English](#english) 참조)
@@ -94,7 +94,7 @@
 
 개인정보 처리에 관한 문의는 아래로 연락해 주세요.
 
-**sjunkyle77@gmail.com**
+**codebrunch27@gmail.com**
 
 ---
 
@@ -109,7 +109,7 @@
 **App:** 링크 보관함 (Link Keeper)
 **Package:** `com.codebrunch.url`
 **Effective date:** August 15, 2026
-**Contact:** sjunkyle77@gmail.com
+**Contact:** codebrunch27@gmail.com
 
 ## Summary
 
@@ -187,4 +187,4 @@ If this policy changes, the updated text and its effective date will be posted o
 
 ## 9. Contact
 
-**sjunkyle77@gmail.com**
+**codebrunch27@gmail.com**
