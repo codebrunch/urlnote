@@ -1,6 +1,6 @@
-# 링크 보관함 — 개인정보처리방침
+# 링크노트 — 개인정보처리방침
 
-**앱 이름:** 링크 보관함
+**앱 이름:** 링크노트
 **패키지 이름:** `com.codebrunch.url`
 **시행일:** 2026년 8월 15일
 **문의:** codebrunch27@gmail.com
@@ -25,9 +25,9 @@
 | 링크 주소(URL) | 사용자가 다른 앱에서 공유하거나 직접 입력한 주소 |
 | 제목·썸네일 주소·파비콘 주소 | 해당 웹페이지에서 자동으로 읽어온 값 |
 | 메모 | 사용자가 직접 입력한 내용 |
-| 태그 | 사용자가 만든 분류 이름과 색상 |
+| 카테고리 | 사용자가 만든 분류 이름과 색상 |
 | 북마크·읽음 표시·저장 시각 | 목록 정리를 위한 상태값 |
-| 앱 설정 | 저장 모드, 썸네일 표시, 정렬 기준, 테마, 보관 기간 |
+| 앱 설정 | 저장 모드, 썸네일 표시, 정렬 기준, 테마, 보관 기간, 저장 날짜 표시 |
 | 썸네일 이미지 캐시 | 최대 100MB. 오래된 것부터 자동 삭제됩니다 |
 
 이 앱은 **계정이나 로그인이 없습니다.** 이름, 이메일, 전화번호, 주소록, 위치, 기기 식별자 등 개인을 알아볼 수 있는 정보는 어떤 것도 수집하지 않습니다.
@@ -104,9 +104,9 @@
 
 <a name="english"></a>
 
-# Link Keeper — Privacy Policy
+# Link Note — Privacy Policy
 
-**App:** 링크 보관함 (Link Keeper)
+**App:** 링크노트 (Link Note)
 **Package:** `com.codebrunch.url`
 **Effective date:** August 15, 2026
 **Contact:** codebrunch27@gmail.com
@@ -122,9 +122,9 @@ The following is stored **only on your device** and is never transmitted anywher
 - Link addresses (URLs) you share or enter
 - Titles, thumbnail URLs and favicon URLs read automatically from those web pages
 - Memos you type
-- Tags you create (name and colour)
+- Categories you create (name and colour)
 - Bookmark state, read state, saved time
-- App settings (save mode, thumbnail display, sort order, theme, retention period)
+- App settings (save mode, thumbnail display, sort order, theme, retention period, saved-date display)
 - A thumbnail image cache of up to 100 MB, pruned automatically
 
 The app has **no account and no sign-in.** It does not collect your name, email, phone number, contacts, location, or device identifiers.
